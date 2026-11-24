@@ -1,8 +1,6 @@
 # 🏄‍♂️ Nyeko Baloyi
 Computer Science graduate from the University of the Witwatersrand with a passion for building software that solves real-world problems. <br/>
-Currently developing my skills in full-stack development, data-driven applications, and software engineering using Java, Python, JavaScript, MySQL, and React. <br/>
-Seeking software engineering and technology internship opportunities where I can contribute, learn from experienced developers, and grow into a strong engineer. <br/>
-Interested in Software Engineering, FinTech, Data Engineering, and Graduate Technology Programmes. <br/>
+Currently developing my skills in full-stack development, data-driven applications, and software engineering using Java, Python, JavaScript, MySQL, and React. Seeking software engineering and technology internship opportunities where I can contribute, learn from experienced developers, and grow into a strong engineer. Interested in Software Engineering, FinTech, Data Engineering, and Graduate Programmes. <br/>
 Always learning. Always building.
 
 
