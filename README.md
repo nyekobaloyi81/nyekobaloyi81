@@ -1,5 +1,10 @@
 # 🏄‍♂️ Nyeko Baloyi
-Software engineer currently specializing in Frontend & Web development to solve complex problems.<br/>Always learning.
+Computer Science graduate from the University of the Witwatersrand with a passion for building software that solves real-world problems. <br/>
+Currently developing my skills in full-stack development, data-driven applications, and software engineering using Java, Python, JavaScript, MySQL, and React. <br/>
+Seeking software engineering and technology internship opportunities where I can contribute, learn from experienced developers, and grow into a strong engineer. <br/>
+Interested in Software Engineering, FinTech, Data Engineering, and Graduate Technology Programmes. <br/>
+Always learning. Always building.
+
 
 
 # 💻 Tech Stack:
