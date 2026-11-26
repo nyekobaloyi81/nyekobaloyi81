@@ -25,8 +25,9 @@ Always learning. Always building.
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
+      <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)"></a>
   </p>
-
+   
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p>
@@ -42,6 +43,9 @@ Always learning. Always building.
       <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+      <a href="#"><img alt="W3Schools" src="https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff"></a>
+      <a href="#"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff"></a>
+      <a href="#"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white"></a>
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
